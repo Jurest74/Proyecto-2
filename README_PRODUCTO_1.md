@@ -98,8 +98,6 @@ Debemos ir a Wordpress y en Ajustes -> Generales cambiar nuestras URL por las de
 
 - https://docs.docker.com/engine/install/
 - https://upcloud.com/community/tutorials/deploy-wordpress-with-docker-compose/
-- https://www.youtube.com/watch?v=S0r0FecM0ik&ab_channel=LOSMEJORESVIDEOSCORTOS
-- https://www.youtube.com/watch?v=M2ToVR-CZtg&ab_channel=Inmagic
 - https://dash.cloudflare.com/
 - https://my.siteground.com/
 
